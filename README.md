@@ -5,7 +5,7 @@ Make Passive Income With Crypto Web Scraper: https://youtu.be/Me8M5oDLHqI
 
 Traders use Binance algorithmic trading to open and close trades according to set rules such as points of price movement in an underlying market. In this tutorial, we'll learn how we can use python telegram bots for Algo trading and automation. The main tools that we use are Binance API and Telegram Bot APIs. If you want to create a cryptocurrency-related bot that can be controlled online and makes money passively this video can help you. Also, you can develop my code and make it a complete Binance trading bot and sell it to people. This video is for beginners and it's easy to follow.
 
-Github Link To The Code:  
+Github Link To The Code:  https://bit.ly/binance-telegram-trading-bot
 __
 ⭐️ You can get a blockchain domain with my affiliate link here: https://bit.ly/nft-crypto-domains
 
